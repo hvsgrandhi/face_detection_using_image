@@ -1,1 +1,6 @@
-Something is modified here, so let's say nothing!!
+Step1: import opencv
+    Install Opencv by: pip install opencv-python
+
+Step 2: Place the image for face detection in the same directory with the name img.jpg(or you can change the name of the img in the code)
+
+Step 3: Relax and run the python file ('python face.py')
